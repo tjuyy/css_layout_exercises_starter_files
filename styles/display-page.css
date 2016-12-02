@@ -1,4 +1,5 @@
-main {
+.container {
+    margin-top: 100px;
     margin-left: auto;
     margin-right: auto;
     width: 800px;
@@ -7,6 +8,7 @@ main {
 
 .inner {
     display: inline-block;
+    border: 1px black solid;
 }
 
 .inner-1 {
@@ -23,12 +25,18 @@ main {
 
 .inner-3 {
     background-color: gray;
+    height: 300px;
+    width: 33.33%;
 }
 
 .inner-4 {
     background-color: black;
+    height: 300px;
+    width: 33.33%;
 }
 
 .inner-5 {
     background-color: orange;
+    height: 300px;
+    width: 33.33%;
 }
