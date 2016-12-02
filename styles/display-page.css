@@ -1,0 +1,34 @@
+main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    font-size: 0px;
+}
+
+.inner {
+    display: inline-block;
+}
+
+.inner-1 {
+    background-color: green;
+    height: 200px;
+    width: 50%;
+}
+
+.inner-2 {
+    background-color: blue;
+    height: 200px;
+    width: 50%;
+}
+
+.inner-3 {
+    background-color: gray;
+}
+
+.inner-4 {
+    background-color: black;
+}
+
+.inner-5 {
+    background-color: orange;
+}
